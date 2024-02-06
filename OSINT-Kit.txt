@@ -1,0 +1,404 @@
+--- OSINT-Kit 2024 ---
+
+<SEARCH SERVICES> 
+	USA Search:
+		http://10digits.us
+		http://www.whitepages.com
+		http://www.411.com
+		http://www.zabasearch.com
+		http://www.intelius.com
+		http://www.yellowpages.com
+		http://publicrecords.directory/
+		http://www.411locate.com
+		http://www.addresses.com
+		http://www.spokeo.com
+		http://www.anywho.com
+		http://www.peoplefinders.com
+		http://www.skipease.com
+		https://www.vetfriends.com/
+		http://radaris.com
+		http://www.superpages.com
+		https://nuwber.com/
+		https://search.aol.com/
+	UK Search:
+		http://www.192.com
+		http://webmii.com
+		http://www.kgbpeople.com
+		http://www.yasni.com
+		http://www.peekyou.com/united_kingdom
+		http://britishphonebook.com/
+	Canada People Search:
+		http://www.canada411.ca
+		http://www.freeality.com
+		http://world.192.com/
+
+
+	Phone Search:
+		http://www.spydialer.com/
+		http://www.phonevalidator.com
+		http://www.fonefinder.net
+		http://canada.numbers.tel
+		http://www.infobel.com/en/world
+		http://www.spokeo.com
+		http://freecellphonelookups.phonelookuprjt.com/
+		http://www.numberway.com/
+		https://intelx.io
+		https://haveibeenpwned.com
+		https://phonebook.cz
+	Username Search:
+		https://www.google.com/advanced_search
+		https://pipl.com
+		http://checkusernames.com
+		http://knowem.com
+		http://namecheckup.com/
+		https://instantusername.com/
+		https://namechk.com/
+		https://www.namecheckr.com/
+		https://app.swaggerhub.com/apis/checker/api
+
+
+	Picture Search:
+		https://search4faces.com
+		https://pimeyes.com
+		https://neumeka.ru
+		http://www.tineye.com
+		https://images.google.com/
+		http://exifdata.com/
+		http://geoimgr.com/
+		https://search.carrot2.org/
+		http://www.zapmeta.com/
+		https://duplichecker.com
+		https://smallseotools.com
+		https://www.shutterstock.com
+		https://recordsearch.naa.gov.au
+		https://photosearch.netlify.app
+		https://facecheck.id
+	
+	
+
+	
+	
+	Email Search:
+		http://com.lullar.com
+		http://www.emailfinder.com
+		http://www.spokeo.com/email-search
+		http://ctrlq.org/google/images/
+		http://emailchange.com/
+		https://epieos.com
+		https://intelx.io
+		https://haveibeenpwned.com
+		https://phonebook.cz
+	MISC Search:
+		http://www.criminalsearches.com
+		http://www.advancedb...roundchecks.com
+		http://www.usatrace.com
+		http://www.criminalsearches.com
+		http://www.abika.com
+		http://www.gps-coordinates.net/
+		http://www.speedguide.net/ip/
+		http://db-ip.com/
+		http://www.ipgeek.org/
+	Useful sites to get/use IPs:
+		https://www.iplocation.net/
+		http://www.proxyornot.com
+		http://www.infosniper.net
+		https://www.whois.net
+		http://www.ip-tracker.org
+		http://skypegrab.net
+		http://mostwantedhf.info
+		http://iphostinfo.com/cloudflare/
+	Social Network Searches:
+		http://www.facebook.com
+		http://topsy.com/
+		http://monitter.com/
+		http://socialmention.com/
+		http://knowem.com/
+		http://twoogel.com/
+		http://www.yacktrack.com
+		http://www.samepoint.com/
+		http://www.whostalkin.com/
+		
+		Twitter:
+			https://www.exportdata.io/
+			http://mapd.csail.mit.edu/tweetmap
+			http://search.twitter.com/
+			http://foller.me/
+			https://www.mytweetalerts.com/
+			https://trendspredictions.com/
+		Facebook:
+			https://haveibeenzuckered.com/
+			http://barometer.agorapulse.com/
+			http://www.wolframalpha.com/input/?i=facebook+report
+		Instagram:
+			http://hashtagify.me/
+			http://iconosquare.com/
+			https://www.picodash.com/
+		Pinterest:
+			http://pingroupie.com/
+		Reddit:
+			http://kerrick.github.io/Mostly-Harmless/#features
+			http://www.redditarchive.com/
+			https://chrome.google.com/webstore/detail/reddit-enhancement-suite/kbmfpngjjgdllneeigpgjifpgocmfgmb
+			https://atomiks.github.io/reddit-user-analyser/
+			http://subreddits.org/
+			https://redditcommentsearch.com/
+			https://universalscammerlist.com/
+			https://randomtools.io/reddit-comment-search/
+		VKontakte:
+			http://vk.com/app3046467
+			http://vk.barkov.net/
+			http://dcpu.ru/vk_repost_tree.php
+			http://vk5.city4me.com/
+			http://vk.com/communities		
+			http://vkparser.ru/
+			http://vk.com/people
+			https://vk.watch/
+			https://v1.220vk.ru/
+		Tumblr:
+			http://www.tumblr.com/search
+		LinkedIn:
+			https://chrome.google.com/webstore/detail/ftl/lkpekgkhmldknbcgjicjkomphkhhdkjj?hl=en-GB	
+		Telegram:
+			https://cse.google.com/cse?q=+&cx=006368593537057042503:efxu7xprihg#gsc.tab=0&gsc.q=%20&gsc.page=1
+			https://github.com/tejado/telegram-nearby-map
+	Blockchain Searches:
+		https://blockchain.com
+		https://blockchair.com
+		https://explorer.crystalblockchain.com
+		https:/www.breadcrumbs.app
+		https://www.trmlabs.com
+		https://www.bitquery.io
+		https://btcparser.com
+		https://metasleuth.io
+		https://www.cryptoblacklist.io
+		https://bitcoinabuse.com
+		dagpay.io
+		BTC4Free.com
+		BitsCircle.com
+		Feathercoin.com
+		Blockachain.com
+		MtGox.com
+		https://zapper.xyz	
+
+			
+		
+		
+					
+	Passwords:
+		https://haveibeenpwned.com/
+		https://www.hacked-db.com/
+		https://www.leakedsource.com
+		https://hashkiller.co.uk/Cracker/MD5
+		https://hacked-emails.com
+		https://breachalarm.com/
+		https://lastpass.com/adobe/
+		https://intelx.io
+		https://phonebook.cz
+	File Search:
+		https://www.filechef.com/
+		https://www.filesearch.link/
+		https://www.dedigger.com/
+		https://filepursuit.com/
+		https://searchfiles.de/
+		https://searchfiles.de/	
+		https://www.searchftps.net/
+		http://www.findpdfdoc.com/
+		http://www.freefullpdf.com/
+		https://offshoreleaks.icij.org/
+		http://andrewmohawk.com/pasteLert/index.php
+		http://www.scribd.com/
+		http://www.slideshare.net/
+		http://www.slideworld.com/
+	Similar Sites Search:
+		https://chrome.google.com/webstore/detail/google-similar-pages/pjnfggphgdjblhfjaphkjhfpiiekbbej	
+		http://www.similarsites.com/
+		http://www.siteslike.com/
+	
+	
+	
+	Some search engines for all info:
+		https://search.illicit.services (THE BEST ONE)
+
+		https://leak.sx
+
+		https://intelx.io
+
+		https://4iq.com
+
+		https://leakcheck.io
+
+		https://vigilante.pw
+
+		https://leakcheck.net
+
+		https://leakpeek.com
+
+		https://rslookup.com
+
+		https://snusbase.com
+
+		https://ghostproject.fr
+
+		https://leak-lookup.com
+
+		https://nuclearleaks.com
+
+		https://private-base.info
+
+		https://haveibeensold.app
+
+		https://www.dehashed.com
+
+		http://scatteredsecrets.com
+
+		https://haveibeenpwned.com
+
+		https://services.normshield.com
+
+		https://joe.black/leakengine.html
+
+		https://epieos.com
+
+		https://breachdirectory.com/search
+
+		https://phonebook.cz
+<WEB ARCHIVES>
+	https://archive.org/web/
+	https://web-archive.ru
+	http://crawler.archive.org
+	
+<GITHUB OSINT TOOLS>
+	Username OSINT:
+		Sherlock: https://github.com/sherlock-project/sherlock
+		Maigret: https://github.com/soxoj/maigret
+		Social-Analyzer: https://github.com/qeeqbox/social-analyzer
+		Nexfil: https://github.com/thewhiteh4t/nexfil
+		WhatsMyName: https://github.com/webbreacher/whatsmyname
+		Snoop: https://github.com/snooppr/snoop
+		UserRecon: https://github.com/wishihab/userrecon
+		NicknameFinder: https://github.com/restanse/NicknameFinder
+		Gideon: https://github.com/YouVBeenHacked/gideon
+		ArinaOSINT: https://github.com/AlexC-ux/Arina-OSINT
+		Netizenship: https://github.com/rahulrajpl/netizenship
+		Search4: https://github.com/0xknown/Search4
+		Socialscan: https://github.com/iojw/socialscan
+		Investigo: https://github.com/tdh8316/Investigo
+		Recon-ng: https://github.com/lanmaster53/recon-ng/
+		Socialpath: https://github.com/woj-ciech/SocialPath
+		BlackBird: https://github.com/p1ngul1n0/blackbird
+		Seekr: https://github.com/seekr-osint/seekr
+		Collector: https://github.com/galihap76/collector
+		X-Osint: https://github.com/TermuxHackz/X-osint
+		Slash: https://github.com/theahmadov/slash.git
+		Illegal_Services: https://github.com/Illegal-Services/Illegal_Services
+		OSINT-SAN: https://github.com/Bafomet666/OSINT-SAN
+	Email OSINT:
+		Eyes: https://github.com/N0rz3/Eyes
+		Email-Osint: https://github.com/KanekiWeb/Email-Osint
+		X-Osint: https://github.com/TermuxHackz/X-osint
+		Zehef: https://github.com/N0rz3/Zehef
+		Seekr: https://github.com/seekr-osint/seekr
+		Mosint: https://github.com/alpkeskin/mosint
+		Poastal: https://github.com/jakecreps/poastal
+		Illegal_Services: https://github.com/Illegal-Services/Illegal_Services
+		Mailcat: https://github.com/sharsil/mailcat
+		OSINT-SAN: https://github.com/Bafomet666/OSINT-SAN
+	Phone Number OSINT:
+		Inspector: https://github.com/N0rz3/Inspector
+		X-Osint: https://github.com/TermuxHackz/X-osint
+		Illegal_Services: https://github.com/Illegal-Services/Illegal_Services
+		Doxxer-Toolkit: https://github.com/Euronymou5/Doxxer-Toolkit
+		DoxTracker: https://github.com/KURO-CODE/DoxTracker
+		OSINT-SAN: https://github.com/Bafomet666/OSINT-SAN	
+		PhoneInfoga: https://github.com/sundowndev/PhoneInfoga
+	Account and Social Media OSINT:
+		Osintgram: https://github.com/Datalux/Osintgram
+		Gitrecon: https://github.com/GONZOsint/gitrecon
+		FacebookFriendListScrapper: https://github.com/narkopolo/fb_friend_list_scraper
+		Toutatis: https://github.com/megadose/toutatis
+		Sterra: https://github.com/novitae/sterraxcyl
+	
+
+
+	MetaData OSINT:
+		MetaDetective: https://github.com/franckferman/MetaDetective
+		MetaForge: https://github.com/chriswmorris/Metaforge
+		Metafind: https://github.com/MrEmpy/Metafind.git
+		FOCA Github Edition: https://github.com/ElevenPaths/FOCA
+
+
+<WEB CRAWLERS>:
+	https://github.com/HACKE-RC/webdork
+	https://www.webcrawler.com
+	
+
+<METADATA EXTRACTION TOOLS>
+	https://exiftool.org
+	https://metadata2go.com
+	https://foca.softonic.ru
+
+<OSINT ENGINES>
+	Maltego: https://www.maltego.com
+	Lampyre: https://lampyre.io
+	Himera-Search: https://himera-search.net
+	Social-Links: https://sociallinks.io
+	sn0int: https://sn0int.com
+        LinkScope: https://accentusoft.com
+	Shodan: https://www.shodan.io
+	Censys: https://censys.com
+	Recon-ng: https://github.com/lanmaster53/recon-ng
+	SpiderFoot: https://github.com/smicallef/spiderfoot
+	TheHarvester: https://github.com/laramies/theHarvester
+	DataSploit: https://github.com/DataSploit/datasploit
+	Ultra-IP-OSINT: https://github.com/Phone-Metal/Ultra-IP-OSINT
+	OSINT-Buddy: https://github.com/jerlendds/osintbuddy
+	SIERRA: https://phantomhelix.com
+<OSINT BROWSERS>
+	VenatorBrowser: https://venator.cyberyozh.com
+<OSINT OS's>
+	CSI Linux: https://csilinux.com 	
+	Trace Labs OSINT VM: https://www.tracelabs.org
+	Tsuguri Linux: https://tsurugi-linux.org
+	Kali Linux: https://www.kali.org
+	BlackArch Linux: https://blackarch.org
+	BackBox: https://www.backbox.org
+	Parrot OS: https://www.parrotsec.org
+
+
+
+
+_____________________________________________________________________________________________________
+     For those who don’t want to do everything with their own hands and learn,
+           I have prepared some of the most useful OSINT bots in telegram,
+	                 there are both paid and free bots.	
+<TELEGRAM BOTS>
+	EYEOFGOD: https://b.eyeofgod.mobi/
+	Maigret OSINT bot: @osint_maigret_bot
+	MailCat: @mailcat_s_bot	
+	Holehe: @holehe_s_bot
+	Blackat Search: @BlackatSearchBotBot
+	Datais: @dataisbot ✔✔GOOD✔✔
+	Usersbox: @eo_investigatePhoneRobot
+	Telesint: @telesint_bot
+	UniversalSearch: @UniversalSearchSuperBot 🔥🔥FIRE🔥🔥
+	HowToFind: @HowToFindRobot
+	LeakOsint: @LeakOsint_bot 🔥🔥FIRE🔥🔥
+	OVERLOAD_ROBOT: @overload_robot 🔥🔥FIRE🔥🔥
+	Quick OSINT: @QuickOSINT_telebot ✔✔GOOD✔✔
+	SOVA Bot: @SovaAppBot 🔥🔥FIRE🔥🔥
+	Archangel BOT: @AngelProbBot
+	Cryptoscan: @Cryptoscanning_boBot
+	OSINTInfoRobot: @OSINTInfoRobot
+	LeaksOsintBot: @Leaks_OsintBot
+	AVInfoBot: @avinfo
+	LeakedInfoBot: @LeakedInf0sBot
+	HimeraSearch: @HimeraSearch_2023_bot
+	GetContact: @Get_Kontact_ContactBot
+	
+	
+	
+	
+
+
+
+	
