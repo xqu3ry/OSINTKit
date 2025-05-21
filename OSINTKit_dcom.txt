@@ -1,5 +1,5 @@
 --- OSINT-Kit 2024 ---
-By delphincom
+By xqu3ry
 <SEARCH SERVICES> 
 	USA Search:
 		http://10digits.us
